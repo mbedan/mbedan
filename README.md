@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbedan
-- 👀 I’m interested in learning R and Python
-- 🌱 I’m currently learning R and Python ;)
+- 👀 I’m interested in learning R and Python. Mostly R at this point.
+- 🌱 I’m currently learning R ;)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
